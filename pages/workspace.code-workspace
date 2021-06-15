@@ -1,0 +1,30 @@
+{
+	"folders": [
+		{
+			"path": "../../../fullCycle2"
+		},
+		{
+			"path": "../../../tistech/sade-migrations"
+		},
+		{
+			"path": "../../../4Linux"
+		},
+		{
+			"path": "../../../alura/reverse-proxy"
+		},
+		{
+			"path": "../../../alura/clines-api"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true,
+		"java.project.sourcePaths": [
+			".mvn/wrapper",
+			"../target/generated-sources/annotations",
+			"src/main/java/br/com/caelum/clines"
+		]
+	}
+}
